@@ -1,0 +1,10 @@
+com\app\controller\UserController.class
+com\app\dao\BankDAO.class
+com\app\dao\UserDAO.class
+com\app\config\AppServletDispatcher.class
+com\app\config\BankAppConfig.class
+com\app\dao\BankDAOImpl.class
+com\app\model\User.class
+com\app\controller\BankController.class
+com\app\model\Bank.class
+com\app\dao\UserDAOImpl.class
